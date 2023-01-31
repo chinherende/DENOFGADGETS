@@ -1,4 +1,4 @@
-# DENOFGADGETS
+ DENOFGADGETS
 
 INVENTORY PASSWORD :::::::::::::::::::gadgets
 
