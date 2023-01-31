@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675118662 source:c:\users\austin\desktop\takufinal\densystem\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<windows.h>
+
